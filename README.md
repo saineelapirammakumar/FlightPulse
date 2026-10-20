@@ -1,7 +1,5 @@
 # FlightPulse — Aviation Delay Analytics
 
-A student-friendly full-stack data science project about flight routes and delay patterns across eight Indian airports: DEL, BOM, BLR, MAA, HYD, CCU and AMD, and COK.
-
 FlightPulse demonstrates how data processing, exploratory data analysis, interactive visualizations, and machine learning can be combined to explore flight delays across the Indian domestic aviation network.
 
 ## Project Objective
