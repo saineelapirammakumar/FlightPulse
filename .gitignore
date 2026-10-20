@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+# Local data / model artifacts
+backend/data/*.db
+backend/ml/*.joblib
+backend/ml/metrics.json
+backend/data/raw/*
+!backend/data/raw/.gitkeep
+# Frontend
+frontend/node_modules/
+frontend/dist/
+# IDE
+.vscode/
+.idea/
+.DS_Store
